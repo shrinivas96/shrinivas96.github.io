@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Shrinivas Iyengar - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Shrinivas Iyengar
+Shrinivas Iyengar
+Controls and Software Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+shrinivas.iyengar10@gmail.com
 
 Phone
-+1 (213) 352-2795
++49 176 76xxxxxx
 
 Birthday
-June 23, 1982
+1996
 
 Location
-Sacramento, California, USA
+Augsburg, Germany
 
 # navbar
 
